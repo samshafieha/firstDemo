@@ -34,6 +34,7 @@ int main(){
 	cout << "HI GIT";
 	cout << "\nHello Git";
 
+
 	num = addNum();
 	num2 = subtractNum();
 	num3 = multiplyNum();
@@ -42,7 +43,6 @@ int main(){
 	cout << "\nAdd the numbers " << num;
 	cout << "\nSubtract the numbers " << num2;
 	cout << "\nMultiply the numbers " << num3;
-
 	
 	return 0;
 }

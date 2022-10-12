@@ -29,7 +29,7 @@ int multiplyNum()
 	return num;
 }
 
-void sayHi()
+void sayHi() // this is my function 
 {
 	cout << "hi";
 }

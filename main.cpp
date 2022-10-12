@@ -29,6 +29,11 @@ int multiplyNum()
 	return num;
 }
 
+void sayHi()
+{
+	cout << "hi";
+}
+
 int main(){
 	int num, num2, num3;
 	cout << "HI GIT";

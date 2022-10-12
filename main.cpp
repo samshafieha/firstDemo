@@ -2,11 +2,11 @@
 
 using namespace std;
 
-int addNum()
+int addNum(int a, int b)
 {
 	int num;
 
-	num = 5+4;
+	num = a+b;
 
 	return num;
 }
@@ -40,7 +40,7 @@ int main(){
 	cout << "\nHello Git";
 
 
-	num = addNum();
+	num = addNum(10, 19);
 	num2 = subtractNum();
 	num3 = multiplyNum();
 	

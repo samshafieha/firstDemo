@@ -32,16 +32,16 @@ int multiplyNum()
 int main(){
 	int num, num2, num3;
 	cout << "HI GIT";
-	cout << "Hello Git";
+	cout << "\nHello Git";
 
 	num = addNum();
 	num2 = subtractNum();
 	num3 = multiplyNum();
 	
 
-	cout << "Add the numbers " << num << endl;
-	cout << "Subtract the numbers " << num << endl;
-	cout << "Multiply the numbers " << num << endl;
+	cout << "\nAdd the numbers " << num;
+	cout << "\nSubtract the numbers " << num2;
+	cout << "\nMultiply the numbers " << num3;
 
 	
 	return 0;
